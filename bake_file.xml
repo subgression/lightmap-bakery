@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <file>
+        <lightmapper_samples>100</lightmapper_samples>
+        <atlas_size>1024</atlas_size>
+        <path>./bake/emission_test/emission_test.blend</path>
+        <atlas_path>./bake/emission_test/emission_test_atlas.png</atlas_path>
+        <baked_path>./bake/emission_test/emission_test_bake.blend</baked_path>
+    </file>
+    <file>
+        <lightmapper_samples>100</lightmapper_samples>
+        <atlas_size>1024</atlas_size>
+        <path>./bake/test/test.blend</path>
+        <atlas_path>./bake/test/test_atlas.png</atlas_path>
+        <baked_path>./bake/test/test_bake.blend</baked_path>
+    </file>
+</database>

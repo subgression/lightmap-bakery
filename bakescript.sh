@@ -1,0 +1,1 @@
+/Applications/Blender/blender.app/Contents/MacOS/blender -b test.blend -P bake.py --s 512 --lms 16
